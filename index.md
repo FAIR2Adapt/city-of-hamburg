@@ -1,4 +1,3 @@
-# Case study Template
+# City of Hamburg
 
-This is a template for a FAIR2Adapt case study
-
+Hamburg City – Climate-induced stressors and their effects on urban societies.
